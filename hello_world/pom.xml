@@ -4,7 +4,7 @@
 	<groupId>org.wso2.carbon.as.samples.struts2</groupId>
 	<artifactId>HelloWorld_Struts2</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>hello_world_struts2</name>
 
 	<properties>
