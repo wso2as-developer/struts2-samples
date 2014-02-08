@@ -13,5 +13,4 @@ Deploy the war file to your WSO2 Application Server instance.
 
 In a web browser go to:  http://localhost:9764/spring-struts2/
 
-You should see a web page with Welcome to Struts 2!
 
